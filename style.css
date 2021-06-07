@@ -8,3 +8,7 @@ div.nav{
   width:100px;
   height:100px;
 }
+p{
+ postion:sticky;
+  top:0;
+}
